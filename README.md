@@ -351,14 +351,12 @@ CodeVault follows a modular architecture.
 # 📁 Project Structure
 
 ```text
-CodeVault/
+vityarthi_progrmming_in-_java/
 │
 ├── README.md
 ├── statement.md
-├── .gitignore
 │
 ├── src/
-│   └── codevault/
 │       ├── Main.java
 │       ├── User.java
 │       ├── Problem.java
@@ -370,21 +368,9 @@ CodeVault/
 │       ├── FileManager.java
 │       └── InputValidator.java
 │
-├── data/
-│   └── .gitkeep
 │
-├── docs/
-│   ├── architecture/
-│   │   └── system-architecture.png
-│   │
-│   ├── diagrams/
-│   │   ├── use-case-diagram.png
-│   │   ├── workflow-diagram.png
-│   │   ├── sequence-diagram.png
-│   │   ├── class-diagram.png
-│   │   └── storage-design.png
-│   │
-│   └── screenshots/
+│  
+│screenshots/
 │       ├── 01-main-menu.png
 │       ├── 02-registration.png
 │       ├── 03-login.png
@@ -395,8 +381,7 @@ CodeVault/
 │       ├── 08-statistics.png
 │       └── 09-recommendation.png
 │
-└── report/
-    └── CodeVault_Project_Report.pdf
+ CodeVault_Project_Report.pdf
 ```
 
 ---
@@ -818,7 +803,7 @@ Recommended screenshots include:
 
 ### Main Menu
 
-![Main Menu](docs/screenshots/01-main-menu.png)
+![Main Menu](Screenshots/)
 
 ### Registration
 
