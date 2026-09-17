@@ -803,11 +803,11 @@ Recommended screenshots include:
 
 ### Main Menu
 
-![Main Menu](Screenshots/)
+![Main Menu](screenshots/Screenshot 2026-09-17 at 22.57.15.png)
 
 ### Registration
 
-![Registration](docs/screenshots/02-registration.png)
+![Registration](./docs/screenshots/02-registration.png)
 
 ### Login
 
@@ -824,18 +824,6 @@ Recommended screenshots include:
 ### Search / Filter
 
 ![Search and Filter](docs/screenshots/06-search-filter.png)
-
-### Progress
-
-![Progress](docs/screenshots/07-progress.png)
-
-### Statistics
-
-![Statistics](docs/screenshots/08-statistics.png)
-
-### Recommendation
-
-![Recommendation](docs/screenshots/09-recommendation.png)
 
 > Screenshots should be updated with actual screenshots from the final version of the application.
 
