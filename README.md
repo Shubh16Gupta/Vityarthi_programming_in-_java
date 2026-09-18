@@ -805,7 +805,7 @@ Recommended screenshots include:
 
 ![Main Menu](screenshots/main-menu.png)
 
-> Screenshots should be updated with actual screenshots from the final version of the application.
+
 
 ---
 
