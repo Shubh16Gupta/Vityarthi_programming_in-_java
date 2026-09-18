@@ -803,7 +803,7 @@ Recommended screenshots include:
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/main-menu)
 
 
 
@@ -1006,7 +1006,7 @@ User data could be synchronized across multiple devices.
 The complete project report is available at:
 
 ```text
-report/CodeVault_Project_Report.pdf
+CodeVault_Project_Report.pdf
 ```
 
 The report contains:
